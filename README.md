@@ -8,5 +8,5 @@
 => https://re-act-project.netlify.app
 ---
 <p align="center">
-<img src="2026-10-27_10-01-54.png" width="1000" height="750";">
+<img src="" width="1000" height="750";">
 </p>
